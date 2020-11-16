@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetengineer99&label=Profile%20views&color=0e75b6&style=flat" alt="vineetengineer99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineetengineer99" alt="vineetengineer99" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thevectorvirus" target="blank"><img src="https://img.shields.io/twitter/follow/thevectorvirus?logo=twitter&style=for-the-badge" alt="thevectorvirus" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Full stack**
@@ -18,9 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thevectorvirus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thevectorvirus" height="30" width="40" /></a>
-<a href="https://codesandbox.com/vineet kumar singh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="vineet kumar singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vineet-kumar-singh-aba53b167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vineet-kumar-singh-aba53b167" height="30" width="40" /></a>
 <a href="https://fb.com/vectorvirus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vectorvirus" height="30" width="40" /></a>
 <a href="https://instagram.com/the.vector.virus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the.vector.virus" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/vineetkumarsinghads" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="vineetkumarsinghads" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
