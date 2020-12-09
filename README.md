@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Full stack**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C++, Network Marketing**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, C++**
 
 - 📫 How to reach me **vineetkumarsinghads@gmail.com**
 
